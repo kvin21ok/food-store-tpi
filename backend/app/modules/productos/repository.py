@@ -41,3 +41,8 @@ class ProductoRepository(BaseRepository[Producto]):
             ).all()
         )
         return items, total
+
+    def get_by_nombre(self, nombre: str) -> Producto | None:
+        return self.session.exec(
+            select(Producto).where(Producto.nombre == nombre)
+        ).first()

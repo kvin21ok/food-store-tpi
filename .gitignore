@@ -20,3 +20,5 @@ dist/
 .idea/
 Thumbs.db
 .DS_Store
+
+backend/smoke_test.py
