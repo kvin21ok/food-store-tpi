@@ -21,4 +21,5 @@ dist/
 Thumbs.db
 .DS_Store
 
+# Test de prueba del backend
 backend/smoke_test.py
