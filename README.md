@@ -5,7 +5,7 @@ Aplicación web de pedidos de comida: backend FastAPI + SQLModel + PostgreSQL y 
 
 - **Alumno:** Gastaldello, Kevin Andrés
 - **Repositorio:** https://github.com/kvin21ok/food-store-tpi
-- **Video de demostración:** <link público del video>
+- **Video de demostración:** https://drive.google.com/file/d/14ElW23rlGf-N62jaGXpBb5m3mAUYmr9L/view?usp=sharing
 
 ## Requisitos
 
